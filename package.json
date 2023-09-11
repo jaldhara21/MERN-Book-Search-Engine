@@ -22,5 +22,9 @@
   "homepage": "https://github.com/jaldhara21/MERN-Book-Search-Engine#readme",
   "devDependencies": {
     "concurrently": "^8.2.1"
+  },
+  "dependencies": {
+    "apollo-client": "^2.6.10",
+    "graphql": "^15.8.0"
   }
 }

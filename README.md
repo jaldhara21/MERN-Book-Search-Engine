@@ -7,13 +7,13 @@
 The MERN Book Search Engine with GraphQL is a full-stack web application that allows avid readers to search for new books to read and manage their reading lists. It has been refactored to use GraphQL for efficient data fetching and modification. This application is built using the MERN stack, including MongoDB, Express.js, React, Node.js, and Apollo Server. Users can search for books, save their favorite books, and view their saved books in a personalized library.
 
 ## Table of Contents:
-- [Overview](#Overview)
-- [Features](#Features)
-- [Usage Information](#Usage-Information)
-- [Installation Process](#Installation-Process)
-- [Technologies Used](#Technologies-Used)
-- [License](#License)
-- [question](#question)
+- [Overview](#Overview) 📖
+- [Features](#Features) ✨
+- [Usage Information](#Usage-Information) 🚀
+- [Installation Process](#Installation-Process) 💻
+- [Technologies Used](#Technologies-Used) 🛠️
+- [License](#License) 💳
+- [Questions](#Questions) ❓
 
 # Overview
 
